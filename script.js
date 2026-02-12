@@ -2,6 +2,8 @@
    Portfolio JavaScript — Interactivity & Effects
    ============================================= */
 
+
+
 document.addEventListener('DOMContentLoaded', () => {
     initThemeToggle();
     initMobileMenu();
